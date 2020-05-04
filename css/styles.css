@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+
+.top-container {
+  text-align: center;
+}
+
+.addition {
+  text-align: left;
+  margin-left: 40px;
+  font-family: 'Marvel', sans-serif;
+  color: #D5DBDB;
+}
+
+.logo {
+  margin: 30px auto 0 auto;
+  width: 90%;
+}
+
+.title {
+  color: white;
+  margin: 100px auto auto auto;
+  font-family: 'Marvel', sans-serif;
+}
+
+.date {
+  font-family: 'Marvel', sans-serif;
+  color: #D5DBDB;
+  margin-bottom: 100px;
+}
