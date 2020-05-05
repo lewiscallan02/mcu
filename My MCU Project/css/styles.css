@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+}
+
+.top-container {
+  text-align: center;
+}
+
+.top-container2 {
+  text-align: center;
+  margin-top: 25px;
+  font-family: 'Marvel', sans-serif;
+}
+
+.title2 {
+  color: white;
+  font-size: 100px;
+  margin: 25px auto 0 auto;
+}
+
+.timeline {
+  text-align: center;
+  margin: 25px auto 100px auto;
+  font-family: 'Marvel', sans-serif;
+  color: white;
+  font-size: 25px;
+}
+
+.special {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.addition {
+  text-align: left;
+  margin-left: 40px;
+  font-family: 'Marvel', sans-serif;
+  color: #D5DBDB;
+}
+
+.logo {
+  margin: 30px auto 0 auto;
+  width: 90%;
+}
+
+.title {
+  color: white;
+  margin: 100px auto auto auto;
+  font-family: 'Marvel', sans-serif;
+}
+
+.date {
+  font-family: 'Marvel', sans-serif;
+  color: #D5DBDB;
+  margin-bottom: 75px;
+}
